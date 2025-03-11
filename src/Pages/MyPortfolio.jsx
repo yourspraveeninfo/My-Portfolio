@@ -42,11 +42,7 @@ export default function MyPortfolio() {
             <div>
               <h3 className="portfolio--section--title">Basic Calculator</h3>
               <p className="text-md">
-                This repository contains a simple calculator web application
-                built using HTML, CSS, and JavaScript. The application provides
-                a user-friendly interface for performing basic arithmetic
-                operations, including addition, subtraction, multiplication, and
-                division.
+              This repository contains a simple calculator web application built using HTML, CSS, and JavaScript. The application provides a user-friendly interface for performing basic arithmetic operations, including addition, subtraction, multiplication, and division. It also supports percentage calculations, clear functionality, and a responsive design, ensuring a smooth and intuitive user experience.
               </p>
             </div>
             <p className="text-sm portfolio--link">
@@ -70,7 +66,7 @@ export default function MyPortfolio() {
             <div>
               <h3 className="portfolio--section--title">Amazon Clone Website</h3>
               <p className="text-md">
-              The website is a clone of Amazon, designed to showcase a shopping platform with a variety of products. It features product listings, a shopping cart, and a user-friendly interface. Users can browse electronics and other categories, add items to their cart, and proceed to checkout. The design aims to replicate Amazon's core functionality and layout, providing a familiar shopping experience for users.
+              The website is a clone of Amazon, designed to showcase a shopping platform with a variety of products. It features product listings, a shopping cart, and a user-friendly interface. Users can browse electronics and other categories, add items to their cart, manage orders, and proceed to checkout, replicating Amazon's core functionality and layout.
               </p>
             </div>
             <p className="text-sm portfolio--link">
@@ -94,7 +90,7 @@ export default function MyPortfolio() {
             <div>
               <h3 className="portfolio--section--title">Cisco Clone Website</h3>
               <p className="text-md">
-              The website is a clone of Cisco's platform, showcasing their network, software, and cybersecurity solutions. It highlights products like AI-powered Cisco XDR and Full-Stack Observability for IT automation. There are also sections for industry-specific solutions, customer stories, and insights into upcoming technologies such as AI and IoT. The site promotes Cisco’s involvement in digital transformation, security, and real-time IT support.
+              I created a Cisco clone website using HTML, CSS, and JavaScript. The website is designed to showcase Cisco’s network, software, and cybersecurity solutions. It is not responsive and is optimized only for desktop viewing, ensuring a proper layout and functionality on larger screens without mobile compatibility.
               </p>
             </div>
             <p className="text-sm portfolio--link">
@@ -120,7 +116,7 @@ export default function MyPortfolio() {
             <div>
               <h3 className="portfolio--section--title">Bus Booking System</h3>
               <p className="text-md">
-              The program is a bus booking system that allows users to register, log in, view available buses, and book tickets. Users provide their personal details for registration and login. The system displays available bus routes and details, allowing users to select a bus and proceed with booking by confirming the date of the journey and ticket details.
+              The program is a bus booking system that enables users to register, log in, view available buses, and book tickets. Users enter personal details for registration and authentication. The system displays bus routes and schedules, allowing users to select a bus, confirm journey details, and complete the booking process seamlessly.
               </p>
             </div>
             <p className="text-sm portfolio--link">
@@ -144,7 +140,7 @@ export default function MyPortfolio() {
             <div>
               <h3 className="portfolio--section--title">Banking System</h3>
               <p className="text-md">
-              This Python program simulates a simple banking system that allows users to perform basic transactions. Users can show their current balance, deposit money, withdraw money, or exit the program. The program includes input validation for negative amounts and insufficient balance during withdrawals.
+              This Python program simulates a simple banking system, enabling users to perform basic transactions. Users can check their balance, deposit funds, withdraw money, or exit the program. It includes input validation to prevent negative deposits and ensures sufficient balance for withdrawals, providing a secure and user-friendly banking experience.
               </p>
             </div>
             <p className="text-sm portfolio--link">
@@ -168,7 +164,7 @@ export default function MyPortfolio() {
             <div>
               <h3 className="portfolio--section--title">College Database</h3>
               <p className="text-md">
-              The college database consists of tables for student details, college bus details, and student mark statements, all managed using MySQL. It utilizes SQL features such as grouping and joins to efficiently retrieve and aggregate data across these related tables. This structure supports comprehensive queries for generating reports.
+              "The college database includes tables for student details, college bus information, and student mark statements, all managed using MySQL. It leverages SQL features like joins and grouping to efficiently retrieve and aggregate data across related tables. This structured approach enables comprehensive queries for generating detailed reports and insights."
               </p>
             </div>
             <p className="text-sm portfolio--link">
