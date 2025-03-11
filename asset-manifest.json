@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.33386989.css",
-    "main.js": "/My-Portfolio/static/js/main.0b27b6c8.js",
+    "main.js": "/My-Portfolio/static/js/main.c2ce5167.js",
     "static/media/Amazon.jpg": "/My-Portfolio/static/media/Amazon.622ef518036a0afcc2bf.jpg",
     "static/media/about-me.png": "/My-Portfolio/static/media/about-me.faf83edffbe3660f1a1d.png",
-    "static/media/Praveen_resume.pdf": "/My-Portfolio/static/media/Praveen_resume.1f6201187018b092d32d.pdf",
     "static/media/logo.svg": "/My-Portfolio/static/media/logo.e54477106ef45ecb4ae83cd1ad91ed08.svg",
     "static/media/hero_img.png": "/My-Portfolio/static/media/hero_img.0f165e8101c7e191dc15.png",
     "static/media/cdb.png": "/My-Portfolio/static/media/cdb.b3eef073dc77a17beb34.png",
@@ -12,15 +11,16 @@
     "static/media/banksystem.png": "/My-Portfolio/static/media/banksystem.88f65f84473a74a74c90.png",
     "static/media/Cisco.jpg": "/My-Portfolio/static/media/Cisco.7803fb39311a96497c31.jpg",
     "static/media/Basic-Calculator.png": "/My-Portfolio/static/media/Basic-Calculator.7c750e15375553f6b458.png",
+    "static/media/Praveen_MCA_Fullstack.pdf": "/My-Portfolio/static/media/Praveen_MCA_Fullstack.2c46445d108ec6126320.pdf",
     "static/media/netlify.svg": "/My-Portfolio/static/media/netlify.16fa7138d5f04b33e5353a2321fa5e6d.svg",
     "static/media/instaLogo.svg": "/My-Portfolio/static/media/instaLogo.a0a9a83448ddb5827d70493a84d37806.svg",
     "index.html": "/My-Portfolio/index.html",
     "static/media/linkedin.svg": "/My-Portfolio/static/media/linkedin.c341cc1c307221b0fe42599c619ceeaf.svg",
     "main.33386989.css.map": "/My-Portfolio/static/css/main.33386989.css.map",
-    "main.0b27b6c8.js.map": "/My-Portfolio/static/js/main.0b27b6c8.js.map"
+    "main.c2ce5167.js.map": "/My-Portfolio/static/js/main.c2ce5167.js.map"
   },
   "entrypoints": [
     "static/css/main.33386989.css",
-    "static/js/main.0b27b6c8.js"
+    "static/js/main.c2ce5167.js"
   ]
 }
