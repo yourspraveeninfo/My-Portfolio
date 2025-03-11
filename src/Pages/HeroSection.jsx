@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../img/Praveen_resume.pdf";
+import resume from "../img/Praveen_MCA_Fullstack.pdf";
 import heroImg from "../img/hero_img.png" 
 
 function HeroSection() {
