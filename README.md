@@ -36,19 +36,21 @@ This portfolio website highlights:
 ```
 ## 🛠️ Installation & Setup (Optional for Developers)
 If you want to run this project locally:
-### Clone the repository
+**Clone the repository:**
+```
 git clone https://github.com/yourspraveeninfo/My-Portfolio.git
-### Navigate to project folder
+```
+**Navigate to project folder:**
 cd My-Portfolio
-### Install dependencies
+**Install dependencies:**
 npm install
-### Start development server
+**Start development server:**
 npm start
-### The app will run at:
-**👉 http://localhost:3000**
-### 📦 Build for Production
-**npm run build**
-This creates an optimized production build inside the build folder.
+**The app will run at:**
+👉 http://localhost:3000
+**📦 Build for Production**
+npm run build
+>This creates an optimized production build inside the build folder.
 ### 📌 Deployment
 This project is deployed using GitHub Pages.
 You can redeploy updates easily by pushing changes to the main branch.
