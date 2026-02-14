@@ -1,11 +1,4 @@
-# 🌐 Praveen Portfolio
-
-Praveen Portfolio is a personal portfolio website built to showcase my profile, technical skills, projects, and contact information in a clean and responsive design.
-This project helps recruiters and visitors understand who I am, what I know, and what I have built..
-
-### 🔗 Live Demo:
-👉Click to View Website [Praveen Portfolio](https://yourspraveeninfo.github.io/My-Portfolio/).
-## 🚀 Project Overview
+# 🚀 Project Overview
 This portfolio website highlights:
 ```
 👨‍💻 About Me – Introduction and background
