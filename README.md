@@ -9,7 +9,7 @@ This portfolio website highlights:
 
 📬 Contact Me – Visitors can directly send messages via email
 ```
-The site is fully responsive and works smoothly across desktop, tablet, and mobile devices.
+>The site is fully responsive and works smoothly across desktop, tablet, and mobile devices.
 ### 🧰 Technologies Used
 ```
 • React – Frontend library for building UI components
