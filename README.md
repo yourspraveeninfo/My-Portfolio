@@ -1,11 +1,8 @@
 # 🚀 Project Overview
 This portfolio website highlights:\
 👨‍💻 About Me – Introduction and background\
-
 🛠️ Skills – Technologies and tools I work with\
-
 📂 Projects – My real-world and practice projects\
-
 📬 Contact Me – Visitors can directly send messages via email
 >The site is fully responsive and works smoothly across desktop, tablet, and mobile devices.
 ### 🧰 Technologies Used
