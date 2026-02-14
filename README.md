@@ -1,5 +1,6 @@
 # 🚀 Project Overview
-This portfolio website highlights:\
+Highlights:\
+
 👨‍💻 About Me – Introduction and background\
 🛠️ Skills – Technologies and tools I work with\
 📂 Projects – My real-world and practice projects\
